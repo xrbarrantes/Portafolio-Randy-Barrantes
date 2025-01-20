@@ -1,55 +1,36 @@
 # Portafolio Personal desarrollado con React
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/taniyow/taniyow-portfolio-react/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/taniyow/taniyow-portfolio-react/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+- Creada con [React](https://reactjs.org)
+- Desarrollada con [Create React App](https://github.com/facebook/create-react-app)
+- Diseñada con [Material-UI](https://material-ui.com)
+- Implementada en vercel [Vercel](https://vercel.com)s its state to the local storage.
 
-A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!. View demo at [https://http://vercel.com//](https://taniyow.vercel.app)
 
--   built using [React](https://reactjs.org)
--   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
--   styled with [Material-UI](https://material-ui.com)
--   deployed on vercel [Vercel](https://vercel.com)
+## Características
 
-Special thanks to [Jo Lienhoop](https://github.com/JoHoop), and [Cody Bennett](https://github.com/CodyJasonBennett) for the inspiration.
+- Toda la información personal se completa a partir del archivo resume.json siguiendo el estándar [JSON Resume](https://jsonresume.org), una iniciativa de código abierto impulsada por la comunidad para crear un estándar basado en JSON para currículums. Descubra el esquema oficial [aquí](https://jsonresume.org/schema).
+- El interruptor/activador para el modo oscuro sincroniza su estado con el almacenamiento local.
 
-## Features
 
--   All of the personal information is populated from the resume.json file following the [JSON Resume](https://jsonresume.org) standard, a community driven open source initiative to create a JSON based standard for resumes. Discover the official schema [here](https://jsonresume.org/schema).
--   The toggle/switch for the dark mode syncs its state to the local storage.
+## Scripts disponibles
 
-#### Coming soon
-
--   Two beautiful resume page templates generated based on the data in the resume.json file -- a modern approach of the traditional printed CV.
--   Rich Google search results using structured data with [json-ld.org/](https://json-ld.org).
-
-## Customization
-
-Feel free to fork this project and customize it with your own information and style.
-
-Refer to the [Material UI docs](https://material-ui.com/customization/theming) for guidance on how to quickly customize the themes, components and colors to suit your tastes.
-
-If you improve the app in any way a pull request would be very much appreciated ✌️
-
-## Available Scripts
-
-In the project directory, you can run:
+En el directorio del proyecto, puedes ejecutar:
 
 ### `npm install`
 
-to install the dependencies.
+para instalar las dependencias.
 
 ### `npm start`
 
-to run the app in the development mode at [http://localhost:3000](http://localhost:3000)<br />
+para ejecutar la aplicación en el modo de desarrollo en [http://localhost:3000](http://localhost:3000)<br />
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+La página se volverá a cargar si realizas modificaciones.<br />
+También verás los errores de lint en la consola.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Construye la aplicación para producción en la carpeta `build`.<br />
+Incluye correctamente React en el modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+La compilación está minimizada y los nombres de archivo incluyen los hashes.<br />
+¡Su aplicación está lista para implementarse!
