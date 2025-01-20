@@ -1,4 +1,4 @@
-# Personal Portfolio Website built with React v16
+# Portafolio Personal desarrollado con React
 
 [![Screenshot](/public/social-image.png?raw=true)](https://taniyow.vercel.app)
 
