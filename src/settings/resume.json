@@ -1,0 +1,133 @@
+{
+    "basics": {
+        "name": "Randy Barrantes",
+        "label": "Web Developer",
+        "email": "randystarling85@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Ingeniero en",
+        "job2": "Sistemas. 🧑🏻‍💻",
+        "description": "¡Hola! Soy Randy Barrantes, entusiasta del desarrollo web. ¡Siempre dispuesto a probar algo nuevo y desafiante!",
+        "summary": "Hecho en Heredia, Costa Rica.",
+        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "https://taniyow.vercel.app/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Heredia",
+            "country": "Costa Rica",
+            "countryCode": "CR",
+            "region": "Centroamerica"
+        },
+        "profiles": [
+            {
+                "network": "Gmail",
+                "username": "randystarling85@gmail.com",
+                "url": "https://mail.google.com/mail/?view=cm&fs=1&to=randystarling85@gmail.com",
+                "x_icon": "fas fa-envelope"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Randy Barrantes Pizarro",
+                "url": "https://www.linkedin.com/in/randy-barrantes-pizarro-786286277/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "xrbarrantes",
+                "url": "https://github.com/xrbarrantes",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "xrbarrantes",
+                "url": "https://gitlab.com/xrbarrantes",
+                "x_icon": "fab fa-gitlab"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [""]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [""]
+        }
+    ],
+    "education": [
+        {
+            "institution": "",
+            "area": " ",
+            "studyType": "",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [""]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "date": "",
+            "awarder": "",
+            "summary": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "",
+            "publisher": "",
+            "releaseDate": "",
+            "website": "",
+            "summary": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [""]
+        }
+    ],
+    "languages": [
+        {
+            "language": "",
+            "fluency": " "
+        },
+        {
+            "language": "",
+            "fluency": " "
+        },
+        {
+            "language": "",
+            "fluency": " "
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [""]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
+    ]
+}
