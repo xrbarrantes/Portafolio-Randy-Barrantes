@@ -12,9 +12,6 @@ export const LightTheme = responsiveFontSizes(
       primary: {
         main: primary,
       },
-      primary: {
-        main: primary,
-      },
       background: {
         default: white,
       },

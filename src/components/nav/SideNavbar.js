@@ -3,14 +3,14 @@ import { Typography } from "@material-ui/core";
 import "./SideNavbar.css";
 
 export const SideNavbar = () => {
-  const [activeNav, setActiveNav] = useState("#");
+  const [activeNav, setActiveNav] = useState("#home");
 
   return (
     <nav>
       <a
-        href="#"
-        onClick={() => setActiveNav("#")}
-        className={activeNav === "#" ? "active" : ""}
+        href="#home"
+        onClick={() => setActiveNav("#home")}
+        className={activeNav === "#home" ? "active" : ""}
       >
         <Typography>Inicio</Typography>
       </a>

@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
 
 export const Works = () => {
   const classes = useStyles();
-  const [projects, setProjects] = useState([
+  const [projects] = useState([
     {
       id: 1,
       title: 'SRS Reg Control',
